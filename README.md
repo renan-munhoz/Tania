@@ -1,1 +1,4 @@
-# Tania
+    -A aplicação recebe como parâmetros duas matrizes representadas por arrays de inteiros.
+    -A aplicação então cria uma matriz resultado com as dimensões corretas (número de linhas da primeira matriz x número de colunas da segunda matriz).
+    -A aplicação itera sobre cada posição da matriz resultado e calcula o valor correspondente fazendo a soma dos produtos dos elementos das linhas da primeira matriz pelos elementos das colunas da segunda matriz. Esse cálculo é realizado com um loop que itera sobre as colunas da primeira matriz e as linhas da segunda matriz.
+    -Por fim, a aplicação retorna a matriz resultado com o resultado da multiplicação.
